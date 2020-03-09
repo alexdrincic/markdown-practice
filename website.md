@@ -15,4 +15,3 @@ Competitor Websites:
 * Sale
 
 
-TOM IS A FUCKING GOAT
