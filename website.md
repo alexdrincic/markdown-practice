@@ -13,3 +13,6 @@ Competitor Websites:
 * about page
 * New in
 * Sale
+
+
+TOM IS A FUCKING GOAT
