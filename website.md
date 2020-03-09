@@ -5,8 +5,8 @@ Clothes.com is a company that is specilised in fashion. We only use ethically so
 
 
 
-Shopping basket
-location of store
-about page
-New in
-Sale
+* Shopping basket
+* location of store
+* about page
+* New in
+* Sale
